@@ -1,0 +1,21 @@
+#nome {
+    border-radius: 5px;
+    border: dashed 3px rgb(145, 202, 240);
+}
+
+
+#footer {
+    border-radius: 5px;
+    background-color: rgb(139, 243, 220);
+}
+
+p{
+    border-radius: 5px;
+    background-color: rgb(189, 213, 248);
+
+}
+
+.direita {
+    display: flex;
+    justify-content: flex-end;
+}
